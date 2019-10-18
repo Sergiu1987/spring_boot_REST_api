@@ -23,6 +23,7 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
+<<<<<<< HEAD
 		
 		<!-- Add dependency for Spring Data Rest -->
 		<dependency>
@@ -30,6 +31,8 @@
 			<artifactId>spring-boot-starter-data-rest</artifactId>
 		</dependency>
 		
+=======
+>>>>>>> 786fd6d3246e351a709ac0249728efe32bf14c88
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
